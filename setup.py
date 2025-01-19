@@ -13,7 +13,7 @@ setup(
     author_email='ashmitthawait2@gmail.com',      # Type in your E-Mail
     # Provide either the link to your github or to your website
     url='https://github.com/ashmit0920/Topsis-Ashmit-102203790',
-    download_url='https://github.com/user/reponame/archive/v_01.tar.gz',
+    download_url='https://github.com/ashmit0920/Topsis-Ashmit-102203790/archive/refs/tags/v0.1.tar.gz',
     keywords=['Topsis', 'CLI tool'],   # Keywords that define your package best
     install_requires=[
         'validators',
